@@ -28,5 +28,5 @@ Design Pattern Study
 - [방문 패턴(Visitor Pattern)](https://github.com/dong-minkim/DesignPattern/tree/main/src/VisitorPattern)
 
 ### 기타 패턴들
-- [MVC Pattern]
-- [Front Controller Pattern]
+- [MVC Pattern](https://github.com/dong-minkim/DesignPattern/tree/main/src/MVCPattern)
+- [Front Controller Pattern](https://github.com/dong-minkim/DesignPattern/tree/main/src/FrontControllerPattern)
