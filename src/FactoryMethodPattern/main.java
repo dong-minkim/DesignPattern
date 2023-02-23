@@ -1,7 +1,9 @@
 package FactoryMethodPattern;
 
 /**
- * 객체를 생성하는 인터페이스를 정의하지만, 인스턴스를 만드는 클래스는 서브클래스에서 결정하도록 하는 패턴
+ * 객체를 생성하는 인터페이스를 정의함으로, 인스턴스를 만드는 클래스는 하위클래스에서 결정하도록 하는 패턴
+ *
+ * 관련된 부품을 조립해서 제품을 만든다.
  */
 public class main {
     public static void main(String[] args) {
